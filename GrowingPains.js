@@ -7,5 +7,8 @@ const AmtOfPlants=20;
 const MaxNumberPlants=Math.floor(area/ReqSpaceOfPlant)
 console.log (MaxNumberPlants$ {MaxNumberPlants},Plants);
 
-
+function Growth(Weeks) {
+    let Plants=AmtOfPlants*Math.pow(2,Weeks);
+    console.log
+}
 
