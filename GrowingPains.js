@@ -9,6 +9,6 @@ console.log (MaxNumberPlants$ {MaxNumberPlants},Plants);
 
 function Growth(Weeks) {
     let Plants=AmtOfPlants*Math.pow(2,Weeks);
-    console.log
+    console.log('AmtOfPlants ${weeks}week(s): $')
 }
 
